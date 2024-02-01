@@ -2,6 +2,10 @@
 
 A small Flutter application showcasing Firebase Authentication integration with a clean and modular code structure.
 
+## Screenshot
+| ![Screenshot 01](docs/screenshots/001.jpg)       | ![Screenshot 02](docs/screenshots/002.jpg) | ![Screenshot 03](docs/screenshots/003.jpg)       | ![Screenshot 04](docs/screenshots/004.jpg) |
+| --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+
 ## The app features
 
 ### A) Login Screen
