@@ -105,15 +105,15 @@ class _LoginButton extends StatelessWidget {
                     onPressed: () {
                       context.read<LoginCubit>().logInAsGuest(context);
                     },
-                    child: const Text('Guest'),
                     style: ElevatedButton.styleFrom(
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(5),
                       ),
                     ),
+                    child: const Text('Guest'),
                   ),
                 ),
-                SizedBox(width: 10),
+                const SizedBox(width: 10),
                 Expanded(
                   child: ElevatedButton(
                     key: const Key('loginForm_continue_raisedButton'),

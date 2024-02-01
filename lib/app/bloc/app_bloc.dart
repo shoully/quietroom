@@ -44,6 +44,6 @@ class AppBloc extends Bloc<AppEvent, AppState> {
   }
 }
 
-final class GuestLogin extends AppEvent {
+class GuestLogin extends AppEvent {
   const GuestLogin();
 }
