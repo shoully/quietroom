@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265462184047",
+    "project_id": "quietroom-cuckoo",
+    "storage_bucket": "quietroom-cuckoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265462184047:android:5dab77b97f4045eea1759a",
+        "android_client_info": {
+          "package_name": "com.example.quietroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuTjyC7QaN63bF1Et1EFLka1suGrRkO6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
