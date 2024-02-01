@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 # Quiet Room
 
 A small Flutter application showcasing Firebase Authentication integration with a clean and modular code structure.
