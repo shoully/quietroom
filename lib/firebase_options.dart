@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCuTjyC7QaN63bF1Et1EFLka1suGrRkO6M',
-    appId: '1:265462184047:android:5dab77b97f4045eea1759a',
+    apiKey: 'KeyHere',
+    appId: 'IDHere',
     messagingSenderId: '265462184047',
-    projectId: 'quietroom-cuckoo',
-    storageBucket: 'quietroom-cuckoo.appspot.com',
+    projectId: 'quietroom',
+    storageBucket: 'quietroom.example.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCWSvP03Fv5H65ERwiWYv_GH7UPGdRHqTI',
-    appId: '1:265462184047:ios:b9382f27fabb04b0a1759a',
+    apiKey: 'KeyHere',
+    appId: 'IDHere',
     messagingSenderId: '265462184047',
-    projectId: 'quietroom-cuckoo',
-    storageBucket: 'quietroom-cuckoo.appspot.com',
+    projectId: 'quietroom',
+    storageBucket: 'quietroom.example.com',
     iosBundleId: 'com.example.quietroom',
   );
 }
