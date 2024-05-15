@@ -1,6 +1,6 @@
 # Quiet Room
 
-A small Flutter application showcasing Firebase Authentication integration with a clean and modular code structure.
+As part of an interview project, I developed a small Flutter application that demonstrates Firebase Authentication integration, featuring a clean and modular code structure.
 
 ## The app features
 
